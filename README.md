@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [duff](https://github.com/caaallum/duff)
 
-- 👨‍💻 All of my projects are available at [git.spei.rs](git.spei.rs)
+- 👨‍💻 All of my projects are available at [git.spei.rs](https://git.spei.rs)
 
 - 📫 How to reach me **callum@spei.rs**
 
